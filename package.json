@@ -1,0 +1,26 @@
+{
+  "name": "ashleigh-donaghy-bell-portfolio-website",
+  "version": "1.0.0",
+  "description": "My personal portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ashleigh",
+    "donaghy",
+    "bell",
+    "front-end",
+    "front - end",
+    "front end",
+    "front-end web developer",
+    "web developer",
+    "web",
+    "developer",
+    "personal portfolio",
+    "portfolio website",
+    "cv"
+  ],
+  "author": "Ashleigh Donaghy-Bell",
+  "license": "ISC"
+}
